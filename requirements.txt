@@ -319,4 +319,4 @@ seaborn
 # uvicorn   
 
 # For request validation and serialization in FastAPI (5-10 MB)
-# pydantic     
+# pydantic 
